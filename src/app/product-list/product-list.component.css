@@ -1,0 +1,14 @@
+.products {
+  text-decoration: none;
+  font-size: 1rem;
+}
+.share-btn {
+  padding: 0.5rem;
+  background-color: dodgerblue;
+  color: white;
+  border-style: none;
+  font-weight: bold;
+  border-style: none;
+  display: block;
+  cursor: pointer;
+}
